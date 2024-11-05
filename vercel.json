@@ -4,7 +4,15 @@
         "source": "/maal",
         "destination": "https://drive.google.com/drive/folders/1dGTSsTmSP_64WrzHRfhGNtNwZYtxde57",
         "permanent": true
+        
+      },
+      {
+        "source": "/ppt",
+        "destination": "https://forms.gle/biXX3GNQ9acUjiBp6",
+        "permanent": true
+
       }
+      
     ]
   }
   
